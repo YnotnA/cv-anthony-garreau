@@ -1,0 +1,1 @@
+{"name":"cv-anthony-garreau","private":true,"type":"module","scripts":{"build":"node build.mjs"},"devDependencies":{"playwright":"1.64","qrcode":"1.5"}}

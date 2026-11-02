@@ -1,0 +1,113 @@
+{
+  "name": "Anthony Garreau",
+  "title": "Profil technique polyvalent",
+  "subtitle": "En reconversion vers le conseil et la relation client",
+  "location": "Mayenne (53)",
+  "license": "Permis B",
+  "summary": "Du terrain télécom à la responsabilité d'une équipe et de projets web, j'ai toujours travaillé au contact des clients et des équipes pour comprendre leurs besoins et trouver des solutions concrètes. Je souhaite aujourd'hui faire de cette relation le cœur de mon métier.",
+  "strengths": [
+    {
+      "label": "Relation",
+      "text": "Échanges constants avec des clients et des directions, animation de réunions."
+    },
+    {
+      "label": "Responsabilités",
+      "text": "Encadrement d'équipe, rôle de référent technique, accompagnement de collègues et participation à des recrutements."
+    },
+    {
+      "label": "Polyvalence et amélioration",
+      "text": "Gestion de projet, web, chantier, réseaux et électricité. Volonté constante d'améliorer les conditions de travail et les méthodes."
+    }
+  ],
+  "experiences": [
+    {
+      "role": "Développeur",
+      "org": "Sharemat",
+      "place": "Saint-Herblain",
+      "dates": "04/2026 - 10/2026",
+      "text": "Évolution et optimisation d'une solution de gestion de parc de matériels et de véhicules, avec l'IA."
+    },
+    {
+      "role": "Bilan professionnel et projet bénévole",
+      "org": "",
+      "place": "",
+      "dates": "09/2025 - 03/2026",
+      "text": "Réflexion sur mon évolution, contribution au jeu open source DyingStar et recherche d'emploi."
+    },
+    {
+      "role": "Lead développeur",
+      "org": "Luminess",
+      "place": "Changé",
+      "dates": "01/2025 - 09/2025",
+      "text": "Application web {{client_luminess}}, créée à partir de zéro.",
+      "points": [
+        "Organisation du planning, développement et rapports réguliers sur l'avancement.",
+        "Présentation de l'avancement au client et prise en compte de ses retours.",
+        "Suivi d'un alternant et montée en compétences de 3 collègues."
+      ]
+    },
+    {
+      "role": "Participation à la reprise d'un camping familial",
+      "org": "",
+      "place": "{{camping_lieu}}",
+      "dates": "07/2023 - 11/2024",
+      "text": "Relation avec les clients du camping, participation aux décisions, site web, Wi-Fi, électricité et terrasses."
+    },
+    {
+      "role": "Lead développeur",
+      "org": "Kiplin",
+      "place": "Nantes",
+      "dates": "10/2021 - 07/2023",
+      "text": "Programmes de prévention santé. Responsable de l'équipe jeux, composée de 4 développeurs juniors.",
+      "points": [
+        "Recueil des besoins auprès de la direction et mise en place des projets.",
+        "Animation des réunions et répartition des tâches.",
+        "Coordination entre design, product owner, game designer et CTO pour limiter les allers-retours."
+      ]
+    },
+    {
+      "role": "Lead développeur",
+      "org": "Dynabuy",
+      "place": "Saint-Herblain",
+      "dates": "05/2017 - 09/2021",
+      "text": "Conception et réalisation de la refonte technique de l'application, centrale d'achats et réseau d'affaires.",
+      "points": [
+        "Comptabilité et gestion des commandes conçues avec chaque métier, pour un outil confortable.",
+        "Contrats signés numériquement sur le terrain, via une interface simple très appréciée des agents."
+      ]
+    },
+    {
+      "role": "Développeur",
+      "org": "Accenture",
+      "place": "Saint-Herblain",
+      "dates": "02/2014 - 04/2017",
+      "text": "Missions pour de grands groupes de la distribution et de l'énergie.",
+      "points": [
+        "Référent technique d'une équipe de 8 personnes, en charge des sujets de performance.",
+        "Conception et réalisation d'une application, avec relation et démonstrations client."
+      ]
+    },
+    {
+      "role": "Technicien, assistant conducteur de travaux, dessinateur projeteur fibre",
+      "org": "SPIE",
+      "place": "Saint-Herblain",
+      "dates": "2007 - 03/2013",
+      "text": "Du terrain à la préparation des chantiers (antennes 3G, caméras), en relation constante avec le client.",
+      "points": [
+        "Chargé de l'étude du développement de la fibre optique pour la ville de Rouen.",
+        "Création de ma propre initiative d'outils réduisant fortement la saisie des rapports et des livrables."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "dates": "2013",
+      "text": "Formation Développeur logiciel, ENI École Informatique, Nantes"
+    },
+    {
+      "dates": "2007",
+      "text": "BTS Électrotechnique, Lycée Eugène Livet, Nantes"
+    }
+  ],
+  "projects": "Contributeur bénévole au jeu open source DyingStar. Site internet et outils du jeu, mise en place de règles communes et d'un guide d'accueil pour les contributeurs."
+}
